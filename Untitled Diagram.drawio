@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T10:05:38.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.40" etag="MV1HM_shwuKpWpLxamvp" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T10:06:07.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.40" etag="KbGM-Sl2Dfl64Twhs3-l" version="22.0.0" type="github">
   <diagram name="Page-1" id="wHc2jCAraRP2GwJG6127">
     <mxGraphModel dx="894" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rE5Kj0M8CEyOqBe85gKx-1" value="GLOBAL DATA&lt;br&gt;+ User Email&lt;br&gt;+ User Phone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rE5Kj0M8CEyOqBe85gKx-1" value="GLOBAL DATA&lt;br&gt;+ global.email&lt;br&gt;+ global.phone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="140" height="550" as="geometry" />
         </mxCell>
         <mxCell id="c1Y-bfJMXIRgOrsBISyG-1" value="COMPONENT 1&lt;br&gt;+comp1data1&lt;br&gt;+comp1data2&lt;br&gt;&lt;br&gt;&lt;br&gt;--&amp;gt; + User Email" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
